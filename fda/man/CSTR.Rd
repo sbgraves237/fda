@@ -56,7 +56,7 @@ CSTRsse(par, datstruct, fitstruct, CSTRbasis, lambda)
 
   \item{parms}{
     a list of CSTR model parameters passed via the 
-    \code{\lind[deSolve]{lsoda}} 'parms' argument.  This 
+    \code{\link[deSolve]{lsoda}} 'parms' argument.  This 
     list consists of the following 3 components:
 
     \itemize{
